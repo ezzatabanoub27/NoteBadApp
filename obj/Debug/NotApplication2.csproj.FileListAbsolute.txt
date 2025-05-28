@@ -1,0 +1,16 @@
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.csproj.AssemblyReference.cache
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.Form1.resources
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.Properties.Resources.resources
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.Screens.NewUser.resources
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.csproj.GenerateResource.cache
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.csproj.CoreCompileInputs.cache
+D:\WindowsFormApp\NotApplication2\bin\Debug\NotApplication2.exe.config
+D:\WindowsFormApp\NotApplication2\bin\Debug\NotApplication2.exe
+D:\WindowsFormApp\NotApplication2\bin\Debug\NotApplication2.pdb
+D:\WindowsFormApp\NotApplication2\bin\Debug\EntityFramework.dll
+D:\WindowsFormApp\NotApplication2\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormApp\NotApplication2\bin\Debug\EntityFramework.xml
+D:\WindowsFormApp\NotApplication2\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotAppli.6720B803.Up2Date
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.exe
+D:\WindowsFormApp\NotApplication2\obj\Debug\NotApplication2.pdb
